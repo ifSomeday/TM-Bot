@@ -154,3 +154,5 @@ cython_debug/
 config.py
 assets/*
 *.pickle
+pyvenv.cfg
+Scripts/*
